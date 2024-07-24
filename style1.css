@@ -104,7 +104,7 @@ section .title::after{
     font-weight: 600;
 }
 .navbar .logo a span{
-    background-color:rgb(58, 58, 58);
+    background-color:rgba(0, 0, 0, 0.863);
     color: crimson;
     transition: all 0.3s ease;
 }
